@@ -5,8 +5,8 @@ h1, h2 {
 #content {
     margin-top: 40px;
 }
-.borrar-tweet,
-.borrar-tweet:hover {
+.delete-tweet,
+.delete-tweet:hover {
     float: right;
     cursor: pointer;
     color: red;
